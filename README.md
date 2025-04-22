@@ -1,0 +1,1 @@
+Hi! I've been developing front-end applications for the past 15 years, and for the last 2 years, I've been creating games for Steam. My dream is to open my own game development studio!
